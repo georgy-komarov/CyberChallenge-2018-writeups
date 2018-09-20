@@ -22,7 +22,7 @@ some_file: Squashfs filesystem, little endian, version 4.0, 17845373 bytes, 5747
 └──╼ $grep -rsn flag.txt
 Binary file squashfs-root/linux-headers-4.13.0-21/fs/squashfs/flag.zip matches
 ```
-В архиве лежит наш флаг.
+В [архиве](squashfs-root/linux-headers-4.13.0-21/fs/squashfs/flag.zip) лежит наш флаг.
 
 **Флаг:** `CC{l00k_1n51d3_7h3_5qu45h}`
 
